@@ -1,6 +1,7 @@
 # 1.1.2(2024-09-10)
 
 - Put DIO0 and DIO1 in D0 and D1 to avoid issues with IR
+- Add more label on the footprint
 
 # 1.1.1(2024-07-21)
 

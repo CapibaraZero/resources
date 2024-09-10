@@ -1,3 +1,10 @@
+# 1.1.1(2024-07-21)
+
+- Larger SX1276 pad
+- Put SX1276 MISO on separated line than SD card to avoid conflict(GPIO 7)
+- Put IR receiver on GPIO 6
+- Put display in higher position to fit better in box
+
 # 1.1.0(2024-07-02)
 
 - Added SX1276
