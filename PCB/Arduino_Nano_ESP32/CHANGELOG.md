@@ -1,3 +1,14 @@
+# 1.1.2(2024-09-10)
+
+- Put DIO0 and DIO1 in D0 and D1 to avoid issues with IR
+
+# 1.1.1(2024-07-21)
+
+- Display RST to Arduino RST
+- Larger SX1276 pad
+- Put SX1276 MISO on separated line than SD card to avoid conflict(D9)
+- Put display in higher position to fit better in box
+ 
 # 1.1.0(2024-07-02)
 
 - Added SX1276
