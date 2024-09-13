@@ -111,7 +111,7 @@ parted "$DEVICE" mkpart primary 0% 100% --script
 echo "Formatting partition to FAT32..."
 
 # Format FAT32 partition
-mkfs -t vfat "$DEVICE"1
+mkfs.fat -F32 /dev/sda1
 
 echo "Mounting new partition..."
 
