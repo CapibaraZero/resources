@@ -1,7 +1,8 @@
-# 1.1.2(2024-09-10)
+# 1.1.2(2024-09-14)
 
 - Put DIO0 and DIO1 in D0 and D1 to avoid issues with IR
 - Add more label on the footprint
+- Update navigation board pin to be easier to solder
 
 # 1.1.1(2024-07-21)
 
