@@ -104,8 +104,8 @@ wipefs -a "$DEVICE"
 
 echo "Creating partition table and partitions..."
 
-# Create partition table(GPT) and partition
-parted "$DEVICE" mklabel gpt --script
+# Create partition table(MSDOS) and partition
+parted "$DEVICE" mklabel msdos --script
 parted "$DEVICE" mkpart primary 0% 100% --script
 
 echo "Formatting partition to FAT32..."
