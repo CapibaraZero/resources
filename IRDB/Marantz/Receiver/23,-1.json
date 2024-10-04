@@ -1,1 +1,1 @@
-[{"name": "MD", "protocol": 17, "address": -1, "command": 63}, {"name": "TAPE 2", "protocol": 17, "address": -1, "command": 63}, {"name": "DCC", "protocol": 17, "address": -1, "command": 63}, {"name": "INPUT - MD", "protocol": 17, "address": -1, "command": 63}]
+[{"name": "MD", "protocol": 17, "address": 23, "command": 63}, {"name": "TAPE 2", "protocol": 17, "address": 23, "command": 63}, {"name": "DCC", "protocol": 17, "address": 23, "command": 63}, {"name": "INPUT - MD", "protocol": 17, "address": 23, "command": 63}]

@@ -1,1 +1,1 @@
-[{"name": "VOL UP", "protocol": 23, "address": -1, "command": 18}, {"name": "VOL DOWN", "protocol": 23, "address": -1, "command": 19}, {"name": "TV ON/OFF", "protocol": 23, "address": -1, "command": 21}, {"name": "TV/VIDEO", "protocol": 23, "address": -1, "command": 37}]
+[{"name": "VOL UP", "protocol": 23, "address": 1, "command": 18}, {"name": "VOL DOWN", "protocol": 23, "address": 1, "command": 19}, {"name": "TV ON/OFF", "protocol": 23, "address": 1, "command": 21}, {"name": "TV/VIDEO", "protocol": 23, "address": 1, "command": 37}]

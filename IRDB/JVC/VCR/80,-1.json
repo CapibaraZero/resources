@@ -1,1 +1,1 @@
-[{"name": "TV CANCEL(CRESET/CH)", "protocol": 8, "address": -1, "command": 23}]
+[{"name": "TV CANCEL(CRESET/CH)", "protocol": 8, "address": 80, "command": 23}]

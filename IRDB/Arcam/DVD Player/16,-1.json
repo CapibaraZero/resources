@@ -1,1 +1,1 @@
-[{"name": "+", "protocol": 17, "address": -1, "command": 16}, {"name": "+A", "protocol": 17, "address": -1, "command": 16}, {"name": "-", "protocol": 17, "address": -1, "command": 17}, {"name": "-A", "protocol": 17, "address": -1, "command": 17}]
+[{"name": "+", "protocol": 17, "address": 16, "command": 16}, {"name": "+A", "protocol": 17, "address": 16, "command": 16}, {"name": "-", "protocol": 17, "address": 16, "command": 17}, {"name": "-A", "protocol": 17, "address": 16, "command": 17}]

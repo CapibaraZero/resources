@@ -1,1 +1,1 @@
-[{"name": "PHOTO", "protocol": 23, "address": -1, "command": 21}, {"name": "START/STOP", "protocol": 23, "address": -1, "command": 25}, {"name": "SEARCH MODE", "protocol": 23, "address": -1, "command": 45}, {"name": "DATA CODE", "protocol": 23, "address": -1, "command": 76}]
+[{"name": "PHOTO", "protocol": 23, "address": 185, "command": 21}, {"name": "START/STOP", "protocol": 23, "address": 185, "command": 25}, {"name": "SEARCH MODE", "protocol": 23, "address": 185, "command": 45}, {"name": "DATA CODE", "protocol": 23, "address": 185, "command": 76}]

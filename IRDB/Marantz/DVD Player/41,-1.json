@@ -1,1 +1,1 @@
-[{"name": "POWER OFF -DISCRETE1", "protocol": 18, "address": -1, "command": 201}, {"name": "POWER ON -DISCRETE2", "protocol": 18, "address": -1, "command": 201}, {"name": "POWER OFF -DISCRETE2", "protocol": 18, "address": -1, "command": 202}]
+[{"name": "POWER OFF -DISCRETE1", "protocol": 18, "address": 41, "command": 201}, {"name": "POWER ON -DISCRETE2", "protocol": 18, "address": 41, "command": 201}, {"name": "POWER OFF -DISCRETE2", "protocol": 18, "address": 41, "command": 202}]

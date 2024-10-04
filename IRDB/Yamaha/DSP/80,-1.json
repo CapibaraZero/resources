@@ -1,1 +1,1 @@
-[{"name": "TV INPUT", "protocol": 8, "address": -1, "command": 9}, {"name": "TV MUTE", "protocol": 8, "address": -1, "command": 11}, {"name": "TV VOL +", "protocol": 8, "address": -1, "command": 18}, {"name": "TV VOL -", "protocol": 8, "address": -1, "command": 21}]
+[{"name": "TV INPUT", "protocol": 8, "address": 80, "command": 9}, {"name": "TV MUTE", "protocol": 8, "address": 80, "command": 11}, {"name": "TV VOL +", "protocol": 8, "address": 80, "command": 18}, {"name": "TV VOL -", "protocol": 8, "address": 80, "command": 21}]

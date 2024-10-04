@@ -49,7 +49,7 @@ for root, dirs, files in os.walk("./irdb/codes"):
         #print(root.replace("irdb", "capibara_irdb"))
         if not os.path.isdir(converted_root):
             os.makedirs(converted_root)
-        print(name)
+        #print(name)
         with open(csv_file, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             signals = []
@@ -83,9 +83,12 @@ for root, dirs, files in os.walk("./irdb/codes"):
                         parsed_signal["protocol"] = IRProtocol.BOSEWAVE.value
                     else:
                         continue
-                    parsed_signal["address"] = (int(row['device']) << 8) | int(row['subdevice'])
+                    if row['subdevice'] != -1:
+                        parsed_signal["address"] = (int(row['device']) << 8) | int(row['subdevice'])
+                    else:
+                        parsed_signal["address"] = int(row['device'])
                     parsed_signal["command"] = int(row['function'])
-                    print(parsed_signal)
+                   # print(parsed_signal)
                     signals.append(parsed_signal)
                 except:
                     continue
