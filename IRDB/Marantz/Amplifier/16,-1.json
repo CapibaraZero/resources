@@ -1,1 +1,86 @@
-[{"name": "POWER ON/OFF", "protocol": 17, "address": 16, "command": 12}, {"name": "MUTE ATT", "protocol": 17, "address": 16, "command": 13}, {"name": "DISPLAY", "protocol": 17, "address": 16, "command": 15}, {"name": "VOLUME +", "protocol": 17, "address": 16, "command": 16}, {"name": "VOLUME -", "protocol": 17, "address": 16, "command": 17}, {"name": "SPEAKER A/B", "protocol": 17, "address": 16, "command": 29}, {"name": "SOURCE DIRECT", "protocol": 17, "address": 16, "command": 34}, {"name": "LOUDNESS", "protocol": 17, "address": 16, "command": 50}, {"name": "CURSOR UP", "protocol": 17, "address": 16, "command": 80}, {"name": "CURSOR DOWN", "protocol": 17, "address": 16, "command": 81}, {"name": "EXIT MENU", "protocol": 17, "address": 16, "command": 83}, {"name": "CURSOR LEFT", "protocol": 17, "address": 16, "command": 85}, {"name": "CURSOR RIGHT", "protocol": 17, "address": 16, "command": 86}, {"name": "ENTER (OK)", "protocol": 17, "address": 16, "command": 87}]
+[
+    {
+        "name": "PWR",
+        "protocol": 17,
+        "address": 16,
+        "command": 12
+    },
+    {
+        "name": "MUTE",
+        "protocol": 17,
+        "address": 16,
+        "command": 13
+    },
+    {
+        "name": "DISP.",
+        "protocol": 17,
+        "address": 16,
+        "command": 15
+    },
+    {
+        "name": "VOL +",
+        "protocol": 17,
+        "address": 16,
+        "command": 16
+    },
+    {
+        "name": "VOL -",
+        "protocol": 17,
+        "address": 16,
+        "command": 17
+    },
+    {
+        "name": "SPE. A/B",
+        "protocol": 17,
+        "address": 16,
+        "command": 29
+    },
+    {
+        "name": "SRC DIR.",
+        "protocol": 17,
+        "address": 16,
+        "command": 34
+    },
+    {
+        "name": "LOUDNESS",
+        "protocol": 17,
+        "address": 16,
+        "command": 50
+    },
+    {
+        "name": "UP",
+        "protocol": 17,
+        "address": 16,
+        "command": 80
+    },
+    {
+        "name": "DOWN",
+        "protocol": 17,
+        "address": 16,
+        "command": 81
+    },
+    {
+        "name": "EXIT",
+        "protocol": 17,
+        "address": 16,
+        "command": 83
+    },
+    {
+        "name": "LEFT",
+        "protocol": 17,
+        "address": 16,
+        "command": 85
+    },
+    {
+        "name": "RIGHT",
+        "protocol": 17,
+        "address": 16,
+        "command": 86
+    },
+    {
+        "name": "OK",
+        "protocol": 17,
+        "address": 16,
+        "command": 87
+    }
+]
