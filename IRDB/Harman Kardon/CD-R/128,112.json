@@ -1,0 +1,1 @@
+[{"name": "STOP", "protocol": 8, "address": 32880, "command": 33}, {"name": "PLAY", "protocol": 8, "address": 32880, "command": 34}, {"name": "PAUSE", "protocol": 8, "address": 32880, "command": 35}, {"name": "TRACKING +", "protocol": 8, "address": 32880, "command": 36}, {"name": "TRACKING -", "protocol": 8, "address": 32880, "command": 37}]

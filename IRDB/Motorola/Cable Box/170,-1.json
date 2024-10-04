@@ -1,0 +1,1 @@
+[{"name": "VOLUME +", "protocol": 9, "address": -1, "command": 10}, {"name": "VOLUME -", "protocol": 9, "address": -1, "command": 11}, {"name": "POWER", "protocol": 9, "address": -1, "command": 28}, {"name": "MUTE", "protocol": 9, "address": -1, "command": 73}]

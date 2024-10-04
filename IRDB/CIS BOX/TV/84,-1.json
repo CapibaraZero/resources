@@ -1,0 +1,1 @@
+[{"name": "CURSOR RIGHT", "protocol": 23, "address": -1, "command": 51}, {"name": "CURSOR LEFT", "protocol": 23, "address": -1, "command": 52}, {"name": "CURSOR UP", "protocol": 23, "address": -1, "command": 53}, {"name": "CURSOR DOWN", "protocol": 23, "address": -1, "command": 54}]

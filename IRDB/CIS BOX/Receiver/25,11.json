@@ -1,0 +1,1 @@
+[{"name": "TUNER", "protocol": 23, "address": 6411, "command": 33}, {"name": "CD", "protocol": 23, "address": 6411, "command": 37}, {"name": "VID 3", "protocol": 23, "address": 6411, "command": 66}, {"name": "TV SAT", "protocol": 23, "address": 6411, "command": 106}]

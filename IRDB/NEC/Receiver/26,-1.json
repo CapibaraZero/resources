@@ -1,0 +1,1 @@
+[{"name": "CD TRACH >>", "protocol": 8, "address": -1, "command": 0}, {"name": "CD TRACK <<", "protocol": 8, "address": -1, "command": 1}, {"name": "CD STOP []", "protocol": 8, "address": -1, "command": 4}, {"name": "CD PLAY >", "protocol": 8, "address": -1, "command": 5}, {"name": "CD PAUSE ", "protocol": 8, "address": -1, "command": 14}]

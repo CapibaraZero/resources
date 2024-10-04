@@ -1,0 +1,1 @@
+[{"name": "MAIN POWER ON D", "protocol": 8, "address": 59418, "command": 42}, {"name": "MAIN POWER ON C", "protocol": 8, "address": 59418, "command": 84}, {"name": "MAIN POWER OFF C", "protocol": 8, "address": 59418, "command": 85}, {"name": "MAIN POWER OFF D", "protocol": 8, "address": 59418, "command": 170}]

@@ -1,0 +1,1 @@
+[{"name": "SCENE A", "protocol": 4, "address": -1, "command": 1}, {"name": "SCENE B", "protocol": 4, "address": -1, "command": 3}, {"name": "SCENE C", "protocol": 4, "address": -1, "command": 5}, {"name": "SCENE D", "protocol": 4, "address": -1, "command": 7}, {"name": "OFF", "protocol": 4, "address": -1, "command": 33}]

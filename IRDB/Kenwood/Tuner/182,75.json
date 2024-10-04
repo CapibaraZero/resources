@@ -1,0 +1,1 @@
+[{"name": "LD STOP []", "protocol": 8, "address": 46667, "command": 17}, {"name": "LD PAUSE ", "protocol": 8, "address": 46667, "command": 18}, {"name": "LD REW <<", "protocol": 8, "address": 46667, "command": 20}, {"name": "LD FF >>", "protocol": 8, "address": 46667, "command": 21}, {"name": "LD PLAY >", "protocol": 8, "address": 46667, "command": 154}]

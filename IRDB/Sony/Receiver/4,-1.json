@@ -1,0 +1,1 @@
+[{"name": "POWER OFF", "protocol": 23, "address": -1, "command": 55}, {"name": "SYSTEM OFF", "protocol": 23, "address": -1, "command": 55}, {"name": "SYSTEM STANDBY", "protocol": 23, "address": -1, "command": 55}, {"name": "STANDBY", "protocol": 23, "address": -1, "command": 55}]

@@ -1,0 +1,1 @@
+[{"name": "PRESET UP", "protocol": 11, "address": 40964, "command": 52}, {"name": "PRESET DOWN", "protocol": 11, "address": 40964, "command": 53}, {"name": "TUNER", "protocol": 11, "address": 40964, "command": 164}]

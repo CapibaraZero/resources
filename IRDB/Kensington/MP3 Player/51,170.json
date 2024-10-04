@@ -1,0 +1,1 @@
+[{"name": "VOLUME -", "protocol": 8, "address": 13226, "command": 0}, {"name": "SKIP >>", "protocol": 8, "address": 13226, "command": 4}, {"name": "PLAY/PAUSE", "protocol": 8, "address": 13226, "command": 8}, {"name": "SKIP <<", "protocol": 8, "address": 13226, "command": 12}, {"name": "VOLUME +", "protocol": 8, "address": 13226, "command": 23}]

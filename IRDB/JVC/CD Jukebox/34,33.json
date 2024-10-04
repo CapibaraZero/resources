@@ -1,0 +1,1 @@
+[{"name": "CHARACTER", "protocol": 5, "address": 8737, "command": 3}, {"name": "ENTER", "protocol": 5, "address": 8737, "command": 12}, {"name": "TITLE INPUT", "protocol": 5, "address": 8737, "command": 19}, {"name": "CANCEL", "protocol": 5, "address": 8737, "command": 24}]

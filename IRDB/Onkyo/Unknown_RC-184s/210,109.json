@@ -1,0 +1,1 @@
+[{"name": "KEY_STOP", "protocol": 8, "address": 53869, "command": 77}, {"name": "KEY_PLAY", "protocol": 8, "address": 53869, "command": 78}, {"name": "KEY_FASTFORWARD", "protocol": 8, "address": 53869, "command": 81}, {"name": "KEY_REWIND", "protocol": 8, "address": 53869, "command": 82}]

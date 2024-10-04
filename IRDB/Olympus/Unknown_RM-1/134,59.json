@@ -1,0 +1,1 @@
+[{"name": "capture", "protocol": 8, "address": 34363, "command": 1}, {"name": "KEY_W", "protocol": 8, "address": 34363, "command": 2}, {"name": "KEY_T", "protocol": 8, "address": 34363, "command": 3}, {"name": "KEY_KPMINUS", "protocol": 8, "address": 34363, "command": 4}, {"name": "KEY_KPPLUS", "protocol": 8, "address": 34363, "command": 5}]
