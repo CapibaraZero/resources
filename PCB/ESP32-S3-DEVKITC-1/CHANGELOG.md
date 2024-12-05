@@ -1,3 +1,6 @@
+# 1.1.2(2024-12-05
+- Wire SX1276 in a separated SPI bus
+
 # 1.1.1(2024-07-21)
 
 - Larger SX1276 pad
